@@ -1,10 +1,10 @@
 ---
 title: 'Contact'
-date: 2018-02-22T17:01:34+07:00
+date: 2024-11-02T16:00:00+00:00
 layout: contact
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+Ready to take your digital journey to the next level? Contact ProDigit today for unparalleled digital solutions that drive results.
 
 | Day       | Opening Hours   |
 | --------- | --------------- |
@@ -12,5 +12,5 @@ Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de 
 | Wednesday | 8:30am - 5:00pm |
 | Thursday  | 8:30am - 5:00pm |
 | Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
+| Saturday  | Closed          |
 | Sunday    | Closed          |

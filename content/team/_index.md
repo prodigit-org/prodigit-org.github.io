@@ -6,6 +6,6 @@ intro_image_absolute_offset: "auto auto -148px -102px"
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The Leaders
 
-Our team of qualified accountants can help your business at any stage. 
+Our team of qualified consultants are leaded by great profesionnals to help optimize their performance and grow at any stage.
