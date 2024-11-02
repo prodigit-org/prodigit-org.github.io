@@ -28,12 +28,12 @@ alt = "Serif - A Hugo Business Theme"
 
 [params.fonts]
 # sets the google font link in layouts/partials/google-fonts.html
-google_fonts = 'https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
-heading = "Playfair Display"
-base = "Source Sans Pro"
+google_fonts = 'https://fonts.googleapis.com/css2?family=Fira+Sans:wght@600&family=Source+Sans+Pro:wght@400;700&display=swap'
+heading = "Fira Sans"
+base = "Montserrat"
 
 [params.colors]
-primary = "#f24088"
+primary = "#8b2c6e"
 black = "#2f2f41"
 white = "#ffffff"
 white_offset = "#f6f7ff"
