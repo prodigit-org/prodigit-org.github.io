@@ -6,6 +6,13 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# The best expertise to help grow your business
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+Our main expertise fields
+
+- Digital Transformation & Strategy
+- Business Advisory
+- Project Management
+- Software Development & Architecture
+- Digital Marketing & Graphic Design
+- Social Media & Community Management
