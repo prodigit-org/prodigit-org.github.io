@@ -5,7 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 ProDigit is a premier IT consultancy that helps businesses succeed in the digital age. Our expert team offers tailored strategies in digital transformation, software development, project management, and digital marketing to enhance your brand and drive engagement.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/illustrations/undraw_team_collaboration_re_ow29.svg)
 
 ## Who are we ?
 
